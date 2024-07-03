@@ -160,7 +160,7 @@ async def term_command(event):
         buttons=buttons
     )
 
-REPO_URL = "https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo"
+REPO_URL = "https://github.com/Apnijanta/Save-Restricted-Content-Bot-Repo"
 
 HELP_TEXT = """Here are the available commands:
 
@@ -173,6 +173,8 @@ HELP_TEXT = """Here are the available commands:
 ➡️ /cancel - to cancel batches
 
 ➡️ /settings - to edit settings.
+
+➡️ /stop  - to stop all process.
 
 [GitHub Repository](%s)
 """ % REPO_URL
