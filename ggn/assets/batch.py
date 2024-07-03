@@ -327,12 +327,12 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 logging.getLogger("telethon").setLevel(logging.WARNING)
 
 # variables
-API_ID = "19748984" #config("API_ID", default=None, cast=int)
-API_HASH = "2141e30f96dfbd8c46fbb5ff4b197004" #config("API_HASH", default=None)
+API_ID = "29939868" #config("API_ID", default=None, cast=int)
+API_HASH = "1ee10fce7cb72aaf315b97f4b33decc0" #config("API_HASH", default=None)
 BOT_TOKEN = "{bot_token}"
 SESSION = "{session}"
 FORCESUB = "save_restricted_content_bots" #config("FORCESUB", default=None)
-AUTH = "6964148334" #config("AUTH", default=None)
+AUTH = "5359880114" #config("AUTH", default=None)
 SUDO_USERS = []
 
 if len(AUTH) != 0:
